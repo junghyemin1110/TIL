@@ -15,7 +15,10 @@ $ git push origin main
 - `$ git add .`을하면 탕비실에 갈 우려가 있음.
 - `$ git commit -m "message"를 하면 오타났을 때 고치기 힘들고 override 할 가능성이 있음.
 
+~~엔터 잘못 쳐서 다시 git add, commit, add origin main 하는 나~~
 
 ##내일 할 일
+
 월요일. html,css특강 듣고 인강도 듣기
 코딩데스트로 나의 수준 알아보기
+
